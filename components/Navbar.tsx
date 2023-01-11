@@ -5,7 +5,7 @@ const Navbar = () => {
     <div className="flex justify-between items-center space-x-8">
       <div>
         <h1 className="font-semibold text-5xl dark:text-white">
-          h'ug shop <span className="text-sm">v1.0</span>
+          h&prime;ug shop <span className="text-sm">v1.0</span>
         </h1>
       </div>
 

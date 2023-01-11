@@ -8,7 +8,7 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Fake H'ug Shop.</title>
+        <title>Fake H&prime;ug Shop.</title>
         <meta
           name="description"
           content="Just a fake H'ug shop bro. Dont be serious rn!"
